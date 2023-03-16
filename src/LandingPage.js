@@ -21,7 +21,7 @@ function LandingPage() {
         <h4></h4>
         <a
           // href="https://apps.apple.com/app/apple-store/id1661018857"
-          href="https://tally.so/r/w2jG2e"
+          href=""
           target="_blank"
           rel="noopener noreferrer"
         >

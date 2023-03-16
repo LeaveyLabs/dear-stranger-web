@@ -15,13 +15,13 @@
 
 dear someone is an anonymous messaging app where you can get your struggles off your chest and hear out someone else who might be in a tough spot.
 
-
 ### how do i use this app?
 
-you can 
+you can write a letter or reply to someone else's - as long as it's thoughtful and true to yourself, anything you write is welcome here.
 
 ### what do i write about?
 
+anything that's been on your mind lately, think of the app as a chance to write out your inner monologue.
 
 ### do you collect any data?
 
@@ -37,7 +37,7 @@ nope! no registration process at all. we collect no user information.
 
 ### i got a beautiful message from someone!
 
-that’s great to hear! feel free to text Adam or Kevin at (615) 975-4270 or (310) 874-1292 if you'd like to share
+that’s great to hear! feel free to text Kevin at (310) 874-1292 if you'd like to share
 
 &nbsp;
 

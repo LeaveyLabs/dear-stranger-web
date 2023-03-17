@@ -15,7 +15,7 @@ function LandingPage() {
           dear someone
         </h2>
         <h6>
-          anonymous messages
+          anonymous letters
         </h6>
 
         <h4></h4>

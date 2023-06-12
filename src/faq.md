@@ -37,7 +37,7 @@ nope! no registration process at all. we collect no user information.
 
 ### i got a beautiful message from someone!
 
-that’s great to hear! feel free to text Kevin at (310) 874-1292 if you'd like to share
+that’s great to hear!
 
 &nbsp;
 
